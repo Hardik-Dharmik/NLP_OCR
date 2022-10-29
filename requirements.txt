@@ -20,7 +20,7 @@ pytz==2022.5
 requests==2.27.1
 sqlparse==0.4.3
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.8.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 urllib3==1.26.12
