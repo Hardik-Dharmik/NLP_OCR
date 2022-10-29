@@ -1,4 +1,3 @@
-absl-py @ file:///opt/conda/conda-bld/absl-py_1639803114343/work
 asgiref==3.4.1
 astor==0.8.1
 certifi==2021.5.30
