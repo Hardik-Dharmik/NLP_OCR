@@ -19,9 +19,9 @@ pyreadline==2.1
 pytz==2022.5
 requests==2.27.1
 sqlparse==0.4.3
-tensorboard==1.14.0
+tensorboard==2.8.0
 tensorflow==2.8.0
-tensorflow-estimator==1.14.0
+tensorflow-estimator==2.8.0
 termcolor==1.1.0
 urllib3==1.26.12
 wincertstore==0.2
